@@ -1,0 +1,11 @@
+{
+  "name": "mind-reader",
+  "dependencies": {
+    "@topcli/spinner": "^2.1.2",
+    "chalk": "^5.3.0"
+  },
+  "bin": {
+    "readmymind": "index.js",
+    "mind-reader": "index.js"
+  }
+}
