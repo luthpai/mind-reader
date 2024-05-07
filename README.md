@@ -8,11 +8,11 @@ Just simply install the package globally with your preferred Node package manage
 
 ```
 # with NPM
-npm i -g mind-reader
+npm i -g mind-reader-cli
 # with Yarn 
-yarn global add mind-reader
+yarn global add mind-reader-cli
 # with PNPM
-pnpm i -g mind-reader
+pnpm i -g mind-reader-cli
 ```
 
 You may need to run the command if you use Linux or macOS
