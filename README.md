@@ -1,15 +1,22 @@
-# mind-reader
+# Mind Reader
 
-To install dependencies:
+yes, this is a joke app, don't waste your time installing this.
 
-```bash
-bun install
+## Installation
+
+Just simply install the package globally with your preferred Node package manager, such as NPM, Yarn, PNPM.
+
+```
+# with NPM
+npm i -g mind-reader
+# with Yarn 
+yarn global add mind-reader
+# with PNPM
+pnpm i -g mind-reader
 ```
 
-To run:
+You may need to run the command if you use Linux or macOS
 
-```bash
-bun run index.ts
-```
+## Usage
 
-This project was created using `bun init` in bun v1.1.7. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+```readmymind```
