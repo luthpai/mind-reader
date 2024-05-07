@@ -1,5 +1,5 @@
 {
-  "name": "mind-reader",
+  "name": "mind-reader-cli",
   "version": "1.0.1",
   "author": "luthpai",
   "dependencies": {
