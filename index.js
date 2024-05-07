@@ -105,7 +105,8 @@ rl.question(`Think of a number from ${chalk.underline("1")} to ${chalk.underline
       process.stdout.clearLine(0)
       process.stdout.cursorTo(0)
       process.stdout.write("Just kidding")
+      process.exit(69)
     }
-    else { console.error("Don't be a genius."); process.exit(123) }
+    else { console.error(chalk.red("Don't be a genius.")); process.exit(123) }
     rl.close()
   })
