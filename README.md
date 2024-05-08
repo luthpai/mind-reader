@@ -15,7 +15,7 @@ yarn global add mind-reader-cli
 pnpm i -g mind-reader-cli
 ```
 
-You may need to run the command if you use Linux or macOS
+You may need to run the command with "sudo" if you use Linux or macOS
 
 ## Usage
 
